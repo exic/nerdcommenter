@@ -283,6 +283,7 @@ let s:delimiterMap = {
     \ 'pfmain': { 'left': '//' },
     \ 'php': { 'left': '//', 'leftAlt': '/*', 'rightAlt': '*/' },
     \ 'pic': { 'left': ';' },
+    \ 'pig': { 'left': '--' },
     \ 'pike': { 'left': '//', 'leftAlt': '/*', 'rightAlt': '*/' },
     \ 'pilrc': { 'left': '//', 'leftAlt': '/*', 'rightAlt': '*/' },
     \ 'pine': { 'left': '#' },
